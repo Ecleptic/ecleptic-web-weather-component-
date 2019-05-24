@@ -1,0 +1,14 @@
+{
+	"name": "ecleptic-web-weather-component",
+	"version": "0.0.1",
+	"description": "Web Component to get weather.",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
+		"web-component",
+		"ecleptic",
+		"weather"
+	],
+	"author": "Cameron Green",
+	"license": "ISC"
+}
