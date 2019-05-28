@@ -1,18 +1,18 @@
----
->-
-  A Basic web component that pulls the weather from
-  [openweathermap.org](https://openweathermap.org/api)
+# [ecleptic-web-weather-component](https://www.npmjs.com/package/ecleptic-web-weather-component)
 
-  This was written for intended use in React libraries, but should work for
-  everything. You place the `zip` and `APIKEY` as props into the component and
-  it should pull the data and show the weather and city name.
----
+--------------------------------------------------------------------------------
 
-[![npm (scoped)](https://img.shields.io/npm/v/ecleptic-web-weather-component.svg)](https://www.npmjs.com/package/ecleptic-web-weather-component) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/ecleptic-web-weather-component.svg)](https://www.npmjs.com/package/ecleptic-web-weather-component) [![install size](https://packagephobia.now.sh/badge?p=ecleptic-web-weather-component)](https://packagephobia.now.sh/result?p=ecleptic-web-weather-component)
+A Basic web component that pulls the weather from [openweathermap.org](https://openweathermap.org/api)
 
-Required Props: `APIKEY`, `ZIP`
+This was written for intended use in React libraries, but should work for everything. You place the zip and APIKEY as props into the component and it should pull the data and show the weather and city name.
 
-# Usage:
+--------------------------------------------------------------------------------
+
+Required Props: `APIKEY`, `ZIP` Required Peer Dependencies: [![npm (scoped)](https://img.shields.io/npm/v/ecleptic-web-weather-component.svg)](https://www.npmjs.com/package/ecleptic-web-weather-component) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/ecleptic-web-weather-component.svg)](https://www.npmjs.com/package/ecleptic-web-weather-component) [![install size](https://packagephobia.now.sh/badge?p=ecleptic-web-weather-component)](https://packagephobia.now.sh/result?p=ecleptic-web-weather-component)
+
+Required props: `APIKEY`, `ZIP`
+
+## Usage:
 
 ```jsx
 import  'ecleptic-web-weather-component'
