@@ -1,6 +1,6 @@
 {
 	"name": "ecleptic-web-weather-component",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Web Component to get weather.",
 	"main": "index.js",
 	"scripts": {},
