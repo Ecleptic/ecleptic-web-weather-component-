@@ -1,4 +1,4 @@
-export function getIcons(icon) {
+export default function getIcons(icon) {
 	switch (icon) {
 		case '01d':
 		case '01n':

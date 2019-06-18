@@ -14,7 +14,7 @@ Required props: `APIKEY`, `ZIP`
 
 ## Usage:
 
-```jsx
+```javascript
 import  'ecleptic-web-weather-component'
 
 function App(){

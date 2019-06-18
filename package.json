@@ -3,12 +3,22 @@
 	"version": "0.0.3",
 	"description": "Web Component to get weather.",
 	"main": "index.js",
-	"scripts": {},
+	"scripts": {
+		"storybook": "start-storybook -p 6006",
+		"build-storybook": "build-storybook"
+	},
 	"keywords": [
 		"web-component",
 		"ecleptic",
 		"weather"
 	],
 	"author": "Cameron Green",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {
+		"@babel/core": "^7.4.5",
+		"@storybook/html": "^5.1.8",
+		"babel-loader": "^8.0.6",
+		"svg-inline-loader": "^0.8.0"
+	}
 }
